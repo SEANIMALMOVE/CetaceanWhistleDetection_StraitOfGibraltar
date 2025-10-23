@@ -25,7 +25,7 @@ We also tested the integration of transfer learning with embeddings of bioacoust
 If you use this code or data in your research, please cite the manuscript:
 
 ```bibtex
-@article{marquez2023deep,
+@article{marquez2025deep,
   title={Deep Learning for Cetacean Detection in the Strait of Gibraltar: Challenges and Advances},
   author={Márquez-Rodríguez, Alba and Pérez-Gimeno, Neus and Benítez-Aragón, Daniel and Muñoz, Gonzalo and De la Cruz, Andrés},
   year={2025},
