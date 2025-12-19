@@ -110,7 +110,6 @@ Idx,Specie,File,Validation,Suggested Specie,Comment
 109,Whistle,channelA_2025-03-01_06-00-18_667_672_0.78.WAV,0,Ambiental,
 110,Whistle,channelA_2025-03-01_08-55-06_466_471_0.56.WAV,0,Motor boat,
 111,Whistle,channelA_2025-03-01_09-38-48_940_945_0.61.WAV,0,Ferry,ferry
-"112,Whistle,channelA_2025-03-01_11-28-03_382_387_0.72.WAV,-1,,""error, descartar medida"""
 113,Whistle,channelA_2025-03-01_11-49-54_421_426_0.78.WAV,0,Motor boat,armónicos motor
 114,Whistle,channelA_2025-03-01_12-11-45_526_531_0.67.WAV,-1,,respiraciones y clicks raros
 115,Whistle,channelA_2025-03-01_12-11-45_529_534_0.99.WAV,-1,,respiraciones y clicks raros
