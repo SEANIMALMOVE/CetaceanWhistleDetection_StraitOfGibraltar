@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Márquez-Rodríguez"
+    given-names: "Alba"
+  - family-names: "Pérez-Gimeno"
+    given-names: "Neus"
+  - family-names: "Benítez-Aragón"
+    given-names: "Daniel"
+  - family-names: "Arroyo"
+    given-names: "Gonzalo M"
+  - family-names: "De la Cruz"
+    given-names: "Andrés"
+title: "Iterative deep learning for cetacean whistle detection in the Strait of Gibraltar"
+version: 1.0.0
+doi: 10.1016/j.engappai.2026.113756
+date-released: 2026-01-08
+url: "https://doi.org/10.1016/j.engappai.2026.113756
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Márquez-Rodríguez"
+      given-names: "Alba"
+    - family-names: "Pérez-Gimeno"
+      given-names: "Neus"
+    - family-names: "Benítez-Aragón"
+      given-names: "Daniel"
+    - family-names: "Arroyo"
+      given-names: "Gonzalo M"
+    - family-names: "De la Cruz"
+      given-names: "Andrés"
+  doi: "10.1016/j.engappai.2026.113756"
+  journal: "Engineering Applications of Artificial Intelligence"
+  month: 1
+  title: "Iterative deep learning for cetacean whistle detection in the Strait of Gibraltar"
+  volume: 167
+  start: 113756 # Article number
+  year: 2026
