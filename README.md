@@ -7,9 +7,9 @@ Passive Acoustic Monitoring (PAM) is essential for monitoring marine ecosystems,
 The CetaceanWhistleDetector integrates BirdNET embeddings and a custom neural network classifier. A semi-supervised iterative annotation workflow, combined with confidence calibration, enables robust whistle detection in our real-world, noisy marine environment, the Strait of Gibraltar.
 
 This repository accompanies the manuscript:
-> **"Deep Learning for Cetacean Detection in the Strait of Gibraltar: Challenges and Advances"**  
-> Alba Márquez-Rodríguez, Neus Pérez-Gimeno, Daniel Benítez Aragón, Gonzalo Muñoz and  Andrés de la Cruz.  
-> Submitted to *Applied Acoustics*.
+> **"Iterative deep learning for cetacean whistle detection in the Strait of Gibraltar"**  
+> Márquez-Rodríguez, A., Pérez-Gimeno, N., Benítez-Aragón, D., Arroyo, G. M., & De la Cruz, A.  
+> Published in *Engineering Applications of Artificial Intelligence, 167, 113756*.
 
 We also tested the integration of transfer learning with embeddings of bioacoustic pretrained models, specifically BirdNET and Perch, a custom binary classifier, iterative human validation, and confidence score threshold calibration to maximize performance under real-world deployment conditions.
 
@@ -25,10 +25,14 @@ We also tested the integration of transfer learning with embeddings of bioacoust
 If you use this code or data in your research, please cite the manuscript:
 
 ```bibtex
-@article{marquez2025deep,
-  title={Deep Learning for Cetacean Detection in the Strait of Gibraltar: Challenges and Advances},
-  author={Márquez-Rodríguez, Alba and Pérez-Gimeno, Neus and Benítez-Aragón, Daniel and Muñoz, Gonzalo and De la Cruz, Andrés},
-  year={2025},
+@article{marquez2026iterative,
+  title={Iterative deep learning for cetacean whistle detection in the Strait of Gibraltar},
+  author={M{\'a}rquez-Rodr{\'\i}guez, Alba and P{\'e}rez-Gimeno, Neus and Ben{\'\i}tez-Arag{\'o}n, Daniel and Arroyo, Gonzalo M and De la Cruz, Andr{\'e}s},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={167},
+  pages={113756},
+  year={2026},
+  publisher={Elsevier}
 }
 ```
 
@@ -124,8 +128,6 @@ CetaceanWhistleDetector/
 ├── README.md                # This file
 └── LICENSE
 ```
-
-You can see the lightweight [Github Repository]() for the project, which includes most important scripts, models and a very basic application.
 
 ## License
 
